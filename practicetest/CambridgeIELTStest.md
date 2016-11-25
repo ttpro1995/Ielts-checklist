@@ -6,7 +6,7 @@ Listening, Reading, Writing, Speaking
 ### Cambride 1
 - [ ] Test 1
   - [ ] Listening
-  - [ ] Reading
+  - [X] Reading
   - [ ] Writing
   - [ ] Speaking
 
