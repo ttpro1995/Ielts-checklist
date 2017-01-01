@@ -5,7 +5,7 @@
 Listening, Reading, Writing, Speaking
 ### Cambride 1
 - [ ] Test 1
-  - [ ] Listening
+  - [X] Listening
   - [X] Reading
   - [ ] Writing
   - [ ] Speaking
@@ -109,7 +109,7 @@ Listening, Reading, Writing, Speaking
 
 ### Cambride 5
 - [ ] Test 1
-  - [ ] Listening
+  - [X] Listening
   - [ ] Reading
   - [ ] Writing
   - [ ] Speaking
@@ -135,7 +135,7 @@ Listening, Reading, Writing, Speaking
 
 ### Cambride 6
 - [ ] Test 1
-  - [ ] Listening
+  - [X] Listening
   - [ ] Reading
   - [ ] Writing
   - [ ] Speaking
