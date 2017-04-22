@@ -212,7 +212,32 @@ Listening, Reading, Writing, Speaking
 
 ### Cambride 9
 - [ ] Test 1
+  - [X] Listening 36/40
+  - [ ] Reading
+  - [ ] Writing
+  - [ ] Speaking
+
+- [ ] Test 2
   - [ ] Listening
+  - [X] Reading 35/40
+  - [ ] Writing
+  - [ ] Speaking
+
+- [ ] Test 3
+  - [ ] Listening
+  - [X] Reading 37/40
+  - [ ] Writing
+  - [ ] Speaking
+
+- [ ] Test 4
+  - [ ] Listening
+  - [ ] Reading
+  - [ ] Writing
+  - [ ] Speaking
+
+### Cambride 10
+- [ ] Test 1
+  - [ ] Listening 
   - [ ] Reading
   - [ ] Writing
   - [ ] Speaking
@@ -232,5 +257,30 @@ Listening, Reading, Writing, Speaking
 - [ ] Test 3
   - [ ] Listening
   - [ ] Reading
+  - [ ] Writing
+  - [ ] Speaking
+  
+  ### Cambride 11
+- [ ] Test 1
+  - [X] Listening 
+  - [X] Reading
+  - [ ] Writing
+  - [ ] Speaking
+
+- [ ] Test 2
+  - [X] Listening
+  - [X] Reading 
+  - [ ] Writing
+  - [ ] Speaking
+
+- [ ] Test 3
+  - [ ] Listening
+  - [X] Reading
+  - [ ] Writing
+  - [ ] Speaking
+
+- [ ] Test 4
+  - [ ] Listening
+  - [X] Reading 35/40
   - [ ] Writing
   - [ ] Speaking
