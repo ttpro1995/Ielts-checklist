@@ -218,20 +218,20 @@ Listening, Reading, Writing, Speaking
   - [ ] Speaking
 
 - [ ] Test 2
-  - [ ] Listening
+  - [X] Listening
   - [X] Reading 35/40
   - [ ] Writing
   - [ ] Speaking
 
 - [ ] Test 3
-  - [ ] Listening
+  - [X] Listening
   - [X] Reading 37/40
   - [ ] Writing
   - [ ] Speaking
 
 - [ ] Test 4
-  - [ ] Listening
-  - [ ] Reading
+  - [X] Listening 32/40
+  - [X] Reading	36/40
   - [ ] Writing
   - [ ] Speaking
 
